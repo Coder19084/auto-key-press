@@ -1,0 +1,10 @@
+import pyautogui as pg #plese in terminal write "pip install pyautogui"
+
+pg.hotkey('winleft') #hotKey = buttons u wanna press
+
+pg.typewrite('chorme\n', 0.5) #write what u wanna write
+# u can change the choeme to any app or browser
+
+
+pg.typewrite('https://github.com/\n', 0.2) #put the link u wanna open in google
+#write the link u wanna a open
